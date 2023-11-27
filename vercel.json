@@ -15,7 +15,7 @@
     "env": {
         "APP_NAME": "Vercel Laravel",
         "APP_ENV": "production",
-        "APP_KEY": "base64:CmdwjUo++yDpyhSlx78ZXQi3wEzdYNC3R8jAV0sbNqk=",
+        "APP_KEY": "base64:AeSIQhpSRBAiDtJUApOl+imuCfMHV0p5NR1QBbxuUBo=",
         "APP_DEBUG": "false",
         "APP_URL": "https://mini-dashboard.app",
         "VERCEL_DEMO_MODE": "true",

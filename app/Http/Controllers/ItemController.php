@@ -36,7 +36,7 @@ class ItemController extends Controller
             "position" => $request->position,
             "age" => $request->age
         ]);
-        return response()->json($item);
+        return response()->json($item,200);
 
     }
 
