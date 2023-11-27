@@ -13,11 +13,11 @@
     ],
     "outputDirectory": "public/build",
     "env": {
-        "APP_NAME": "dashboard",
+        "APP_NAME": "Vercel Laravel",
         "APP_ENV": "production",
         "APP_KEY": "base64:CmdwjUo++yDpyhSlx78ZXQi3wEzdYNC3R8jAV0sbNqk=",
         "APP_DEBUG": "false",
-        "APP_URL": "https://mini-text-dashboard.com",
+        "APP_URL": "https://mini-dashboard.app",
         "VERCEL_DEMO_MODE": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
