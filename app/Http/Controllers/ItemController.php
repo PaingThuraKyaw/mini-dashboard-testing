@@ -46,6 +46,9 @@ class ItemController extends Controller
     public function show(Item $item)
     {
         // return response()->json($item);
+        if(is_null($item->id)){
+            return response()->json(["message" => "Not found"] , 404);
+        }
         return new ItemResource($item);
     }
 
